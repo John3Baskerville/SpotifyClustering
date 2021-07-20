@@ -1,4 +1,4 @@
-[Code](https://github.com/John3Baskerville/SpotifyClustering/blob/main/Unsupervised%20Learning%20Project%20-%20Final%20(1).html)
+[Code](https://github.com/John3Baskerville/SpotifyClustering/tree/main/SpotifyProject)
 
 In this project I expriment with clustering algorithms to separate my personal spotify library into playlists. I use [spotipy](https://spotipy.readthedocs.io/en/2.18.0/), a lightweight Python library for the Spotify Web API," to collect the my personal data. Each song has calculated 13 [audio features](https://developer.spotify.com/discover/) and I chosee the 10 that I thought would help me most with clustering:
 - **acousticness**: A confidence measure from 0.0 to 1.0 of whether the track is acoustic. 1.0 represents high confidence the track is acoustic.	Float
