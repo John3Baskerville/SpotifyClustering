@@ -14,3 +14,4 @@ In this project I expriment with clustering algorithms to separate my personal s
 - **valence**: A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry).
 
 ![heatmap](https://github.com/John3Baskerville/SpotifyClustering/blob/main/Juypter%20Notebooks/projectImages/snsHeatmap.png)
+<img src="https://github.com/John3Baskerville/SpotifyClustering/blob/main/Juypter%20Notebooks/projectImages/snsHeatmap.png?raw=true" alt="heatmap">
