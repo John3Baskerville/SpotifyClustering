@@ -1,6 +1,6 @@
 [Code](https://github.com/John3Baskerville/SpotifyClustering/tree/main/Juypter%20Notebooks)
 
-In this project I expriment with clustering algorithms to separate my personal spotify library into playlists. I use [spotipy](https://spotipy.readthedocs.io/en/2.18.0/), a lightweight Python library for the Spotify Web API," to collect the my personal data. Each song has calculated 13 [audio features](https://developer.spotify.com/discover/) and I chosee the 10 that I thought would help me most with clustering:
+In this project I expriment with clustering algorithms to separate my personal spotify library into playlists. 
 
 Here are two of the highest correlated features.
 
