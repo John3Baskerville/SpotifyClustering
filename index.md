@@ -1,5 +1,9 @@
 [Code](https://github.com/John3Baskerville/SpotifyClustering/tree/main/Juypter%20Notebooks)
 
+First steps in the project involve gathering data and formatting it into an easy to read format easily handled in python (.csv). 
+* Connect to spotify and download song library (liked songs).
+<img src="https://github.com/John3Baskerville/SpotifyClustering/blob/main/Juypter%20Notebooks/projectImages/rawSpotifyData.PNG?raw=true" alt="raw spotify data">
+
 Here are two of the highest correlated features.
 
 - **energy**: Energy is a measure from 0.0 to 1.0 and represents a perceptual measure of intensity and activity. Typically, energetic tracks feel fast, loud, and noisy. For example, death metal has high energy, while a Bach prelude scores low on the scale. Perceptual features contributing to this attribute include dynamic range, perceived loudness, timbre, onset rate, and general entropy.	Float
