@@ -1,7 +1,5 @@
 [Code](https://github.com/John3Baskerville/SpotifyClustering/tree/main/Juypter%20Notebooks)
 
-In this project I expriment with clustering algorithms to separate my personal spotify library into playlists. 
-
 Here are two of the highest correlated features.
 
 - **energy**: Energy is a measure from 0.0 to 1.0 and represents a perceptual measure of intensity and activity. Typically, energetic tracks feel fast, loud, and noisy. For example, death metal has high energy, while a Bach prelude scores low on the scale. Perceptual features contributing to this attribute include dynamic range, perceived loudness, timbre, onset rate, and general entropy.	Float
