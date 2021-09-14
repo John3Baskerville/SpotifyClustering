@@ -1,7 +1,5 @@
 [Code](https://github.com/John3Baskerville/SpotifyClustering/blob/main/Juypter%20Notebooks/SpotifyClustering2.ipynb)
 
-
-
 First steps in the project involve gathering data and formatting it into an easy to read format easily handled in python (.csv). 
 * Connect to spotify and download song library (liked songs). The metadata retrieved includes a unique ID which is assigned to every track.
 
