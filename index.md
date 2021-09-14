@@ -1,4 +1,4 @@
-[Code](https://github.com/John3Baskerville/SpotifyClustering/tree/main/Juypter%20Notebooks)
+[Code](https://github.com/John3Baskerville/SpotifyClustering/blob/main/Juypter%20Notebooks/SpotifyClustering2.ipynb)
 
 
 
