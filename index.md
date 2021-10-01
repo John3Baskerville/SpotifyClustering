@@ -7,4 +7,4 @@ Once the data is imported from spotify, I use each song ID to format attributes 
 *data table picture*
 
 
-<img src="https://github.com/John3Baskerville/SpotifyClustering/blob/main/Juypter%20Notebooks/projectImages/violinplot.png?raw=true" alt="violinplot">
+<img src="http://localhost:8888/view/Desktop/JohnBaskervilleGitRepos/SpotifyClustering/Juypter%20Notebooks/projectImages/violinplots.png?raw=true" alt="violinplot">
