@@ -1,4 +1,6 @@
 [Python Code](https://github.com/John3Baskerville/SpotifyClustering/blob/main/Juypter%20Notebooks/SpotifyClustering2.ipynb)
+<a href="https://example.com" target="_blank" rel="noopener noreferrer">Click Here</a>
+
 
 Before I started analysis on my personal spotify library, I needed to collect the data from Spotify. Luckily, [spotipy](https://spotipy.readthedocs.io/en/2.18.0/), a lightweight Python library for the Spotify Web API is available. Spotipy allowed me to connect to my personal spotify account and extract whichever playlists I needed. I use the [pandas](https://pandas.pydata.org/) python libraries to build tables and read data from JSON elements which helps me easily manipulate the raw data.
 
