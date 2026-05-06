@@ -102,15 +102,15 @@ The clustering pipeline successfully grouped songs into distinct playlist-style 
 Examples of automatically detected cluster themes included:
 ## Cluster Theme Summary
 
-| Cluster | Songs | Auto Theme | Final Theme |
-|----------|-------|-------------|-------------|
-| 0 | 115 | Wordy / Rap · Acoustic | Wordy / Rap · Acoustic |
-| 1 | 402 | Danceable · Produced | Danceable · Produced |
-| 2 | 254 | Low-Groove · Dark / Sad | Low-Groove · Dark / Sad |
-| 3 | 144 | Acoustic · Mellow | Acoustic · Mellow |
-| 4 | 152 | Live-Feel · High-Energy | Live-Feel · High-Energy |
-| 5 | 260 | Danceable · Dark / Sad | Danceable · Dark / Sad |
-| 6 | 262 | Upbeat · High-Energy | Upbeat · High-Energy |
+| Cluster | Songs | Theme |
+|----------|-------|-------------|
+| 0 | 115 | Wordy / Rap · Acoustic |
+| 1 | 402 | Danceable · Produced |
+| 2 | 254 | Low-Groove · Dark / Sad |
+| 3 | 144 | Acoustic · Mellow |
+| 4 | 152 | Live-Feel · High-Energy |
+| 5 | 260 | Danceable · Dark / Sad |
+| 6 | 262 | Upbeat · High-Energy |
 
 ### Cluster Distribution Overview
 - Total Songs Clustered: **1,589**
