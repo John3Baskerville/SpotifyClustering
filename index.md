@@ -1,7 +1,4 @@
-[Python Code](https://github.com/John3Baskerville/SpotifyClustering/blob/main/Juypter%20Notebooks/SpotifyClustering2.ipynb)
-<a href="https://example.com" target="_blank" rel="noopener noreferrer">Click Here</a>
-<a href="https://example.com" target="_blank" rel="noopener noreferrer">Click Here</a>
-[link](https://example.com){:target="_blank"}
+[Python Code]([https://github.com/John3Baskerville/SpotifyClustering/blob/main/Juypter%20Notebooks/SpotifyClustering2.ipynb](https://github.com/John3Baskerville/SpotifyClustering))
 
 
 
